@@ -52,7 +52,7 @@ gcode =
 	SET_FAN_SPEED FAN=Filter_Fan SPEED=0
 	{% if MATERIAL == 'ABS' %}
 		filter_on
-    {% endif %}
+   	{% endif %}
 	G28
 	TEMPERATURE_WAIT SENSOR=heater_bed MINIMUM={bed_temp}
 	SET_HEATER_TEMPERATURE HEATER=extruder TARGET={extruder_temp}
