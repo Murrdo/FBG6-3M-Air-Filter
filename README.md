@@ -1,6 +1,8 @@
 # FBG6-3M-Air-Filter
 Air filter for FBG6
 
+![](https://github.com/Murrdo/FBG6-3M-Air-Filter/blob/main/photo/Inner1.jpg)
+![](https://github.com/Murrdo/FBG6-3M-Air-Filter/blob/main/photo/outer1.jpg)
 Фильтр для принтера FBG6 испоьзующий сменные фильтры 3M (проверено на 6059) - при условии общей герметизации запаха нет при 10 часовой печати в закрытой непроветриваемой комнате.
 
 Подготовка и принцип действия.
