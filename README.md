@@ -58,3 +58,4 @@ gcode =
 	SET_HEATER_TEMPERATURE HEATER=extruder TARGET={extruder_temp}
 	TEMPERATURE_WAIT SENSOR=extruder MINIMUM={extruder_temp}	
 ```
+PS: Внешнюю часть можно сделать намного компактней, и на фото как раз доработанная версия, на спасибо фьюжену - эта версия не сохранилась, переделывать её модель снова лень уш простите.
